@@ -5,3 +5,4 @@ rocket-scroll
 演示地址
 =============
 [rocket-scroll](http://rocket.ruiana.com/)
+![截屏](http://rocket.ruiana.com/Screen%20Shot%202012-07-09%20at%205.00.09%20PM.png)
